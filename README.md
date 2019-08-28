@@ -1,2 +1,4 @@
 # Git-Training
-Training in git
+Training in git 
+
+Finally changed my username 
